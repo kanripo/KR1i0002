@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 樂書
-#+DATE: 2018-03-24 09:40:44.166070
+#+DATE: 2018-03-24 09:40:45.576343
 #+PROPERTY: ID KR1i0002
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 121
 <pb:KR1i0002_WYG_121-1a>¶
 　　欽定四庫全書¶
@@ -164,7 +164,7 @@
 聲生出不窮非所以爲約也小者其聲則約而已若夫¶
 大不至於不窮小不至於太約此所以謂之仲也然則¶
 鄭郭三孔之籥豈其中者歟毛萇六孔之籥豈其大者¶
-歟雖然皆不出乎中聲而廣雅有七孔籥爲&KR0327;之説豈¶
+歟雖然皆不出乎中聲而廣雅有七孔籥爲笛之説豈¶
 傅㑹七音而遂誤乎¶
 ¶
 ¶

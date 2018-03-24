@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 樂書
-#+DATE: 2018-03-24 09:40:44.378240
+#+DATE: 2018-03-24 09:40:45.840336
 #+PROPERTY: ID KR1i0002
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 158
 <pb:KR1i0002_WYG_158-1a>¶
 　　欽定四庫全書¶
@@ -303,7 +303,7 @@
 ¶
 　　波斯¶
 ¶
-　　北史波斯國都宿利城國人號王曰醫&KR1232;五妃防步率¶
+　　北史波斯國都宿利城國人號王曰醫噆五妃防步率¶
 其俗以六月為歲首至於七月七日十二月一日尤所¶
 崇重人庶以上交相命召設㑹作樂唐天寶中屢遣使¶
 來朝獻馬腦床并毛繡舞筵焉¶

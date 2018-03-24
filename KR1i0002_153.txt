@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 樂書
-#+DATE: 2018-03-24 09:40:44.347624
+#+DATE: 2018-03-24 09:40:45.808189
 #+PROPERTY: ID KR1i0002
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 153
 <pb:KR1i0002_WYG_153-1a>¶
 　　欽定四庫全書¶
@@ -94,7 +94,7 @@
 <pb:KR1i0002_WYG_153-5a>¶
 　　徹歌¶
 ¶
-　　儀禮有司徹卒&KR0362;有司官徹饋饌于室中西北隅南面¶
+　　儀禮有司徹卒𧃊有司官徹饋饌于室中西北隅南面¶
 如饋之設語曰以雍徹盖大祭祀告禮成之後有司徹¶
 室中饋饌禮之終也徹必歌雍樂之終也古之祭祀有¶
 樂以迎來必有樂以徹食大饗之禮不入牲其他亦如¶

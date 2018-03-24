@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 樂書
-#+DATE: 2018-03-24 09:40:44.176977
+#+DATE: 2018-03-24 09:40:45.590380
 #+PROPERTY: ID KR1i0002
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 123
 <pb:KR1i0002_WYG_123-1a>¶
 　　欽定四庫全書¶
@@ -178,7 +178,7 @@
 是不知去二變四清以合乎聲律之正也通禮義纂曰¶
 <pb:KR1i0002_WYG_123-10a>¶
 漢武帝丘仲作竽笙三十六管豈以丘仲作尺四寸之¶
-&KR0327;遂誤以爲竽邪(竽聲重濁與巢相和堂下之樂也樂法圖曰吹竽有以知法度竽音調則¶
+笛遂誤以爲竽邪(竽聲重濁與巢相和堂下之樂也樂法圖曰吹竽有以知法度竽音調則¶
 度數得矣)¶
 ¶
 　　簧¶

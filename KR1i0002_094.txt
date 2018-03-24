@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 樂書
-#+DATE: 2018-03-24 09:40:44.032253
+#+DATE: 2018-03-24 09:40:45.375427
 #+PROPERTY: ID KR1i0002
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 94
 <pb:KR1i0002_WYG_094-1a>¶
 　　欽定四庫全書¶
@@ -140,7 +140,7 @@
 道始于金聲而玉振之取諸存乎樂者明之終於巧¶
 <pb:KR1i0002_WYG_094-7b>¶
 力之射取諸存乎禮者明之葢禮樂法而不説惟法¶
-也衆人共由之惟不説也天下之至𧷤存焉¶
+也衆人共由之惟不説也天下之至賾存焉¶
 ¶
 ¶
 ¶

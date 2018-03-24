@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 樂書
-#+DATE: 2018-03-24 09:40:44.199291
+#+DATE: 2018-03-24 09:40:45.618858
 #+PROPERTY: ID KR1i0002
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 127
 <pb:KR1i0002_WYG_127-1a>¶
 　　欽定四庫全書¶
@@ -371,7 +371,7 @@
 ¶
 <pb:KR1i0002_WYG_127-19b>¶
 　　以上三鼓龜兹國獲羯鼔□鼓杖鼓腰鼔漢魏用之大¶
-者以(缺)小者以木類皆廣首纎腹宋蕭思話所謂細𦝫¶
+者以(缺)小者以木類皆廣首纎腹宋蕭思話所謂細腰¶
 鼔是也魏有正鼔和鼓之别後周有三等之制右擊以¶
 杖左擊以(缺)後世謂之杖鼓拍鼓亦謂之魏鼔毎奏大¶
 曲則擊之與羯鼓大鼓同震作其聲和壯而有節也唐¶

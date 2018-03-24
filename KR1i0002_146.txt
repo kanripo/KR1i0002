@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 樂書
-#+DATE: 2018-03-24 09:40:44.305843
+#+DATE: 2018-03-24 09:40:45.759440
 #+PROPERTY: ID KR1i0002
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 146
 <pb:KR1i0002_WYG_146-1a>¶
 　　欽定四庫全書¶
@@ -100,7 +100,7 @@
 <pb:KR1i0002_WYG_146-5b>¶
 　　宋何承天幼好律厯之學尤善彈箏文帝賜之銀裝箏¶
 一嘗考魏晉之世孫氏善廣舊曲宋識善擊節倡和陳¶
-左善清歌劉和善吹&KR0327;郝素善彈箏朱生善琵琶而劉¶
+左善清歌劉和善吹笛郝素善彈箏朱生善琵琶而劉¶
 和郝素皆與荀朂同定律吕故傅休奕曰人多欽所聞¶
 忽所見不亦惑乎設此六人生於上世越古今而無儷¶
 何但夔牙同契哉¶

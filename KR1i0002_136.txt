@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 樂書
-#+DATE: 2018-03-24 09:40:44.250812
+#+DATE: 2018-03-24 09:40:45.683551
 #+PROPERTY: ID KR1i0002
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 136
 <pb:KR1i0002_WYG_136-1a>¶
 　　欽定四庫全書¶
@@ -123,7 +123,7 @@
 　　春秋孔演圖有人金卯興於豐擊玉鼓駕六龍然則鼓¶
 盖有以玉為之者矣先王之論玉以謂其聲清越以長¶
 樂也裁之為佩左㣲角右宫羽則自然之樂固已存乎¶
-其中矣古有玉&KR0327;玉簫玉管玉磬皆取諸玉亦奚不可¶
+其中矣古有玉笛玉簫玉管玉磬皆取諸玉亦奚不可¶
 為鼓哉¶
 ¶
 ¶

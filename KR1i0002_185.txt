@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 樂書
-#+DATE: 2018-03-24 09:40:44.562140
+#+DATE: 2018-03-24 09:40:46.025109
 #+PROPERTY: ID KR1i0002
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 185
 <pb:KR1i0002_WYG_185-1a>¶
 　　欽定四庫全書¶
@@ -116,7 +116,7 @@
 ¶
 　　打毬樂¶
 ¶
-　　打毬樂之舞衣四色窄繡羅&KR0237;銀帶簇花折上巾順風¶
+　　打毬樂之舞衣四色窄繡羅𥜗銀帶簇花折上巾順風¶
 脚執毬杖蓋唐貞觀初魏鄭公奉詔所造其調存焉¶
 ¶
 　　宫伶¶

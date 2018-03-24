@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 樂書
-#+DATE: 2018-03-24 09:40:43.897718
+#+DATE: 2018-03-24 09:40:45.154290
 #+PROPERTY: ID KR1i0002
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 59
 <pb:KR1i0002_WYG_059-1a>¶
 　　欽定四庫全書¶
@@ -132,7 +132,7 @@
 <pb:KR1i0002_WYG_059-6b>¶
 及肆夏燕以慈惠為主其禮恕故進取肆夏無嫌也¶
 ¶
-　　君與射則為下射&KR0221;朱(闕)樂作而后就物小臣以巾授¶
+　　君與射則為下射袒朱(闕)樂作而后就物小臣以巾授¶
 矢稍屬不以樂志既發則小臣受弓以授弓人¶
 ¶
 　　君與士射則為下射降尊以就卑也君樂作而後就¶

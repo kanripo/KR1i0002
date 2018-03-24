@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 樂書
-#+DATE: 2018-03-24 09:40:44.239903
+#+DATE: 2018-03-24 09:40:45.669863
 #+PROPERTY: ID KR1i0002
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 134
 <pb:KR1i0002_WYG_134-1a>¶
 　　欽定四庫全書¶
@@ -231,7 +231,7 @@
 ¶
 ¶
 <pb:KR1i0002_WYG_134-12b>¶
-　　昔元行冲為太常卿時有人於古塜中得銅物似琵琶¶
+　　昔元行冲為太常卿時有人於古塚中得銅物似琵琶¶
 而身正圓莫有識者元視之曰此阮咸所造樂具乃命¶
 工匠易銅以木其為聲雖清而雅然亦失其故音矣¶
 ¶

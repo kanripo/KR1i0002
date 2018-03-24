@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 樂書
-#+DATE: 2018-03-24 09:40:44.088544
+#+DATE: 2018-03-24 09:40:45.458935
 #+PROPERTY: ID KR1i0002
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 106
 <pb:KR1i0002_WYG_106-1a>¶
 　　欽定四庫全書¶
@@ -187,7 +187,7 @@
 哉彼哉亦豈知先王立樂之方聲音之節責之大師聲¶
 音之用責之鼓人聲音之合責之大胥哉盖禽獸知聲¶
 而不知音衆庶知音而不知樂今之論樂者曾聲音之¶
-不知欲其幽以致鬼神&KR0344;明以和邦國内以諧萬民外¶
+不知欲其幽以致鬼神示明以和邦國内以諧萬民外¶
 以安賔客逺以説逺人微以作動物不亦難乎¶
 ¶
 ¶

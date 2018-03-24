@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 樂書
-#+DATE: 2018-03-24 09:40:44.621058
+#+DATE: 2018-03-24 09:40:46.085851
 #+PROPERTY: ID KR1i0002
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 193
 <pb:KR1i0002_WYG_193-1a>¶
 　　欽定四庫全書¶
@@ -363,7 +363,7 @@
 ¶
 ¶
 <pb:KR1i0002_WYG_193-18b>¶
-　　周官大宗伯以肆祼獻享先王以饋食享先王司尊&KR0156;¶
+　　周官大宗伯以肆祼獻享先王以饋食享先王司尊彝¶
 凡四時之間祀追享朝享蓋肆祼獻饋食在時享之上¶
 追享朝享間於時享之間古者䘮除朝廟合羣祖而祭¶
 之故祫謂之朝享而以饋食為主猶生時之有食也以¶
